@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@400;500;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.section1 {
+  display: flex;
+  background-color: #334e85;
+  border: 1px solid black;
+  width: 500px;
+  align-items: center;
+  /* justify-content: center; */
+  margin: 0px 500px;
+  color: #fff;
+  padding: 5px;
+}
+
+.button1 {
+  color: #fff;
+  background-color: #5f6fab;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form1 {
+  width: 200px;
+}
+
+.input1 {
+  width: 100%;
+}
+
+.form2 {
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+.form2 a {
+  text-decoration: none;
+}
+
+.section2 {
+  background-color: #fcfcfe;
+  border: 1px solid black;
+  width: 500px;
+  margin: 0px 500px;
+  height: 90vh;
+}
+
+.button2 {
+  background-color: #5d994c;
+  padding: 5px;
+  width: 150px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  margin: 5px;
+}
+
+span {
+  color: #7684a0;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+.form-container {
+  padding: 5px;
+}
+
+.form-container input {
+  margin-top: 5px;
+}
+
+p {
+  font-size: 10px;
+  color: #7684a0;
+}
